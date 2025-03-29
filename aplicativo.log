@@ -1,0 +1,31 @@
+2025-03-29 16:24:20,696 - INFO - Acceso al endpoint de la API
+2025-03-29 16:24:20,698 - INFO - GET / - 200 - 0.0040s
+2025-03-29 16:24:21,310 - INFO - GET /favicon.ico - 404 - 0.0010s
+2025-03-29 16:24:29,532 - INFO - GET /doc - 404 - 0.0010s
+2025-03-29 16:25:04,389 - INFO - GET /docs - 200 - 0.0010s
+2025-03-29 16:25:05,227 - INFO - GET /openapi.json - 200 - 0.0124s
+2025-03-29 16:25:53,626 - INFO - ver dataset
+2025-03-29 16:25:54,209 - INFO - GET /favicon.ico - 404 - 0.0010s
+2025-03-29 16:26:52,325 - INFO - ver dataset
+2025-03-29 16:26:52,326 - INFO - ver dataset
+2025-03-29 16:26:52,336 - INFO - GET /verDataset - 200 - 0.0160s
+2025-03-29 16:26:52,337 - INFO - GET /verDataset - 200 - 0.0170s
+2025-03-29 16:27:00,886 - INFO - Acceso al endpoint de la API
+2025-03-29 16:27:00,889 - INFO - GET / - 200 - 0.0030s
+2025-03-29 16:27:56,072 - INFO - ver dataset
+2025-03-29 16:27:56,073 - INFO - GET /verDataset - 200 - 0.0020s
+2025-03-29 16:29:36,621 - INFO - ver dataset
+2025-03-29 16:29:36,623 - INFO - GET /verDataset - 200 - 0.0030s
+2025-03-29 16:30:31,409 - INFO - ver dataset
+2025-03-29 16:30:31,412 - INFO - GET /verDataset - 200 - 0.0050s
+2025-03-29 16:30:47,901 - INFO - ver dataset
+2025-03-29 16:30:47,902 - INFO - GET /verDataset - 200 - 0.0020s
+2025-03-29 16:31:33,017 - INFO - ver dataset completo
+2025-03-29 16:31:33,094 - INFO - GET /verDataset - 200 - 0.0780s
+2025-03-29 16:37:35,218 - INFO - ver dataset completo
+2025-03-29 16:37:35,314 - INFO - GET /verDataset - 200 - 0.0970s
+2025-03-29 16:38:12,325 - INFO - POST /predict - 404 - 0.0000s
+2025-03-29 16:38:22,503 - INFO - 
+Solicitud recibida - DATOS recibidos: {'Area': 145.0, 'Room': 3, 'Parking': True, 'Warehouse': True, 'Elevator': True, 'Address': 'Punak'}
+2025-03-29 16:38:22,517 - INFO - Predicción generada por parte de modelo: 232059.95901095224
+2025-03-29 16:38:22,518 - INFO - POST /predecir - 200 - 0.0200s
